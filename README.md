@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/GusMedeiros](github.com/GusMedeiros)
 
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/gustavo-medeiros-70923b213/) (will start soon)
-
 - 📫 How to reach me **gustavomedeiros@id.uff.br**
 
 <h3 align="left">Connect with me:</h3>
