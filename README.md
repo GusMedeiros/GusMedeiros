@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gustavo Medeiros 👋</h1>
-<h3 align="center">AI Engineer | LLM Researcher | Backend Developer</h3>
+<h3 align="center">LLM Researcher | Backend Developer</h3>
 
 <p align="center">
   <em>Building intelligent agents, scalable RAG architectures, and LLMOps pipelines.</em>
