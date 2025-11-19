@@ -1,19 +1,88 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">Computer Science student at UFF, passionate about Backend Development, AI, Cloud, and DevOps.</h3>
+<h1 align="center">Hi there, I'm Gustavo Medeiros 👋</h1>
+<h3 align="center">AI Engineer | LLM Researcher | Backend Developer</h3>
 
-- 🔭 I’m currently working on [BDD Test Case Generator](https://github.com/GusMedeiros/BDD-Test-Case-Generator)
-
-- 🌱 I’m currently learning **Backend frameworks (FastAPI, Spring Boot, DotNet), Cloud fundamentals (AWS), and DevOps practices**
-
-- 👯 I’m looking to collaborate on **Open-source backend, cloud, or DevOps projects (especially those using Python, Java, or C#)**
-
-- 👨‍💻 All of my projects are available at [github.com/GusMedeiros](github.com/GusMedeiros)
-
-- 📫 How to reach me **gustavomedeiros@id.uff.br**
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/gustavo-medeiros-70923b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-medeiros-70923b213" height="30" width="40" /></a><p align="left">
+<p align="center">
+  <em>Building intelligent agents, scalable RAG architectures, and LLMOps pipelines.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/gustavo-medeiros-70923b213" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:gustavomedeiros@id.uff.br"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm a Computer Science student at **UFF** (Universidade Federal Fluminense) and currently an **AI Research & Development Intern at IBM Research**. My focus has shifted from pure backend development to the cutting edge of Generative AI, where I design systems that bridge the gap between research models and production products.
+
+- 🔭 **I’m currently working on:** - **Knowledge Extraction Pipeline (KEP):** Acting as the core maintainer for this LLMOps/RAG tool at IBM, which powers the Knowledge Base Extraction (KBE) product.
+  - **Safe Materials Advisor:** Building agents to extract hazard info from Safety Data Sheets (SDS).
+
+- 🔬 **Research focus:** - Conducting qualitative research on using LLMs for test data generation (Article approved for Latam School - LCSE 2026).
+  - Exploring the latest models: **Llama 3/4, Gemini 2.5, GPT-4, and IBM Granite**.
+
+- 🛠️ **I’m currently refining:** - Advanced RAG techniques, Agentic Workflows, and Vector Databases.
+
+---
+
+### 💻 Tech Stack
+
+**GenAI & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-Use-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Architecture-orange?style=flat-square" />
+</p>
+
+**Backend & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🏆 Featured Project
+
+<div align="center">
+
+  <h3>🧪 BDD Test Case Generator</h3>
+
+  <p>
+    <strong>An LLM-powered Plugin for IntelliJ IDEA & CLI Tool</strong>
+  </p>
+
+  <p>
+    This tool leverages <strong>Autonomous Agents</strong> to automate the generation of Behavior-Driven Development (BDD) test scenarios. It represents the practical application of my academic research on LLMs for software testing.
+  </p>
+
+  <p>
+    <a href="https://github.com/GusMedeiros/BDD-Test-Case-Generator">
+      <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" alt="View Project" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/IntelliJ_Platform-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLM_Agents-Success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+  </p>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GusMedeiros&show_icons=true&theme=dracula&hide_border=true" alt="Gustavo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusMedeiros&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
